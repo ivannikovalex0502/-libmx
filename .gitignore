@@ -1,0 +1,10 @@
+*.Ds_Store
+*.o
+*.out
+*~
+~S*
+*.dms
+*.sw*
+*.dSYM
+*.n
+
