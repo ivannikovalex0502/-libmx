@@ -5,9 +5,9 @@
 2) to work with memory
 3) to work with linked list
 4) algorithms: 
-     a. binary search
-     b. buble sort
-     c. quick sort
+     <br />a. binary search
+     <br />b. buble sort
+     <br />c. quick sort
 5) miscellaneous:
-     a. itoa
-     b. foreach (higher-order function in C) 
+     <br />a. itoa
+     <br />b. foreach (higher-order function in C) 
