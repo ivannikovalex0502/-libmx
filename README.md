@@ -10,4 +10,4 @@
      c. quick sort
 5) miscellaneous:
      a. itoa
-     b. foreach (higher-order function in C)
+     b. foreach (higher-order function in C) 
