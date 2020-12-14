@@ -4,7 +4,7 @@
 1) to work with strings
 2) to work with memory
 3) to work with linked list
-4) <span>algorithms</span>: 
+4) <bold>algorithms</bold>: 
      <br />a. binary search
      <br />b. buble sort
      <br />c. quick sort
