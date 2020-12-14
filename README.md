@@ -1,5 +1,5 @@
 <h1>Libmx</h1>
-<p styles="color: blue">A library of useful functions, that we used in other projects. This is my own implementations of functions:</p>
+<p>A library of useful functions, that we used in other projects. This is my own implementations of functions:</p>
 
 1) to work with strings
 2) to work with memory
