@@ -1,5 +1,4 @@
-Libmx
-
+***Libmx***
 A library of useful functions, that we used in other projects. This is my own implementations of functions:
 
 1) to work with strings
